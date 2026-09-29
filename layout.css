@@ -1,0 +1,71 @@
+.a{
+    background-color: rgb(224, 212, 212); 
+    border: 2px solid black;
+        height: 600px;
+        width: 1250px;
+    border-radius: 9px;
+    
+}
+.name{
+    justify-self:center;
+    margin: 30px;
+    color: yellow;
+
+}
+.b{
+    border: 1px solid rgb(0, 0, 0);
+    height: 100px;
+    width: 1230px;
+    margin: 10px;
+    background-color: rgb(70, 66, 66); 
+    border-radius: 9px;
+}
+
+.c{
+    border: 1px solid rgb(0, 0, 0);
+    height: 100px;
+    width: 1230px;
+    margin: 10px;
+    background-color: rgb(70, 66, 66); 
+    border-radius: 9px;
+}
+.d{
+    border: 1px solid rgb(0, 0, 0);
+    height: 100px;
+    width:800px;
+    margin: 10px;
+
+    background-color: rgb(70, 66, 66);
+    border-radius: 9px;
+}
+.e{
+    border: 1px solid rgb(0, 0, 0);
+    height: 100px;
+    width:800px;
+    margin: 10px;
+
+    background-color: rgb(70, 66, 66);
+    border-radius: 9px;
+}
+.f{
+    border: 1px solid rgb(0, 0, 0);
+    height: 132px;
+    width: 1230px;
+    margin: 10px;
+    background-color: rgb(70, 66, 66); 
+    border-radius: 9px;
+}
+.g{
+     border: 1px solid rgb(0, 0, 0);
+    height: 209px;
+    width: 400px;
+    margin: 10px;
+    background-color: rgb(70, 66, 66); 
+    border-radius: 9px;
+    position: absolute;
+    margin: left;
+    padding-right: 5px;
+    top: 37%;
+    left:830px;
+}
+
